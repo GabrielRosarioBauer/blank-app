@@ -1,0 +1,1 @@
+"""Framework-independent visualization boundaries."""
